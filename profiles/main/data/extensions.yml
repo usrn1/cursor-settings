@@ -1,0 +1,30 @@
+builtin:
+  disabled:
+    - anysphere.cursor-agent-exec
+    - anysphere.cursor-agent-worker
+    - anysphere.cursor-always-local
+    - anysphere.cursor-checkout
+    - anysphere.cursor-resolver
+    - anysphere.cursor-retrieval
+    - anysphere.cursor-socket
+    - undefined.cursor-themes
+disabled: []
+enabled:
+  - id: anysphere.cpptools
+    uuid: 033f8d91-0c9e-44cd-a3d2-b35fc4fd12da
+  - id: anysphere.cursorpyright
+    uuid: d7f9f831-2239-4783-9d06-18d27f285818
+  - id: anysphere.remote-ssh
+    uuid: 73a45d83-83c7-4b22-bebf-c9130b0ab3f3
+  - id: llvm-vs-code-extensions.vscode-clangd
+    uuid: 103154cb-b81d-4e1b-8281-c5f4fa563d37
+  - id: ms-python.debugpy
+    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-vscode.cmake-tools
+    uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
+  - id: vadimcn.vscode-lldb
+    uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

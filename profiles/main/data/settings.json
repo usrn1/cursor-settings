@@ -1,0 +1,8 @@
+{
+    "window.commandCenter": true,
+    "http.proxy": "http://127.0.0.1:7890",
+    "cursor.general.disableHttp2": true,
+    "clangd.path": "/home/liang/.config/Cursor/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/22.1.0/clangd_22.1.0/bin/clangd",
+    "editor.gotoLocation.multipleDefinitions": "goto",
+    "window.autoDetectColorScheme": false
+}
